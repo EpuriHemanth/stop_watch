@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(25, 23, 23);
+}
+#timer-container{
+    border-style: dotted;
+    border-radius: 40px;
+    border-color: white;
+    margin: 40px;
+    padding: 40px;
+}
+#timer,#btn-container{
+   text-align: center; 
+   
+}
+#sec,#min,#colon{
+    color:white;
+}
